@@ -1,5 +1,6 @@
 # Evergreen Shipping Line Container Input Automation
-Started 2025-present
+Personal Project <br>
+Started 2025-present <br> <br>
 Objective: On Evergreen Shipping Line's website (https://www.shipmentlink.com), it is neccessary to individually input shipment container information (Bill of Lading) from Excel and Word Documents. 
 
 This program automatically takes the standardize Excel/Word documents of a specific company and inputs it into Shipment Link. This includes automatic login, nagivation to *Creating B/L Instruction*, and container and shipment information input.
